@@ -1,6 +1,6 @@
 # Simple Image Reflection
 
-A deep learning-based tool for removing reflections from images using a U-Net architecture. This project provides utilities for both generating synthetic reflection datasets and removing unwanted reflections from images. 
+A deep learning-based tool for removing reflections from images using a GCNet-Gan architecture. This project provides utilities for both generating synthetic reflection datasets and removing unwanted reflections from images. 
 
 ## ⭐ Features
 - Synthetic reflection dataset generation
