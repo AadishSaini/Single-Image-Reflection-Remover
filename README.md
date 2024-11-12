@@ -1,4 +1,4 @@
-# Simple Image Reflection
+# Simple Image Reflection Remover
 
 A deep learning-based tool for removing reflections from images using a GCNet-Gan architecture. This project provides utilities for both generating synthetic reflection datasets and removing unwanted reflections from images. 
 
